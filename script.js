@@ -155,7 +155,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return new Promise((resolve) => setTimeout(resolve, ms));
   }
 
-  const phrases = ["Frontend Developer", "Wordpress Developer","Software Developer", "Programmer"];
+  const phrases = ["Frontend Developer", "Backend Developer","Software Developer", "Programmer"];
   const el = document.getElementById("typewriter");
 
   let typeTime = 150;
