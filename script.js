@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const typingElement = document.querySelector(".typing-text");
 
   // Typing animation
-  const text = "<Hello World/>";
+  const text = "<John Smith/>";
   let index = 0;
   const interval = setInterval(() => {
     typingElement.textContent = text.substring(0, index) + "";
@@ -308,7 +308,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Contact Form Configuration
   document.addEventListener("DOMContentLoaded", function () {
-    emailjs.init("hNDs4uvKytGGzAZo8"); // Replace with your EmailJS Public Key
+    emailjs.init("oE0tYwMTLB9dpJBrE"); // Replace with your EmailJS Public Key
   
     document.querySelector("form").addEventListener("submit", function (e) {
       e.preventDefault();
@@ -332,7 +332,7 @@ document.addEventListener("DOMContentLoaded", () => {
       };
   
       // Send email
-      emailjs.send("service_22et9wc", "template_4pwjh4f", params)
+      emailjs.send("service_du8f1bp", "template_5bt1dcv", params)
         .then(function (response) {
           alert("Awesome! Your message has been sent. I'll reply as soon as I can. 🚀");
           document.querySelector("form").reset();
