@@ -9,7 +9,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - **Contact Form & Social Links** – Makes it easy for potential clients or employers to reach out.  
 
 ## 🌐 Live Demo  
-🔗 **Check it out here:** [Live Demo](https://eleazartuazon.vercel.app/)  
+🔗 **Check it out here:** [Live Demo](https://johnsmith0202.github.io/my-portfolio/)  
 
 ## 🛠 Tech Stack  
 - **Front-End:** Next.js (React framework), React.js, Tailwind CSS (for styling), HTML5 & CSS3, JavaScript (ES6+)
@@ -19,10 +19,9 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 ## 📌 Setup & Installation  
 1. Clone the repository:  
    ```sh  
-   git clone https://github.com/eleazartuazon/My-Portfolio.git  
+   git clone https://github.com/johnsmith0202/my-portfolio.git 
    ```  
 2. Open `index.html` in your browser or set up a local development server.  
 
 ## 📬 Contact  
-📧 Email: eleazartuazon1d@gmail.com        
-🔗 LinkedIn: https://www.linkedin.com/in/eleazartuazon/
+📧 Email: greatedev0202@gmail.com        
